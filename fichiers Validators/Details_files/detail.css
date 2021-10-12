@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+body{
+    background-color: rgb(236, 227, 227);
+}
+h2{
+    margin-left: 100px;
+    color: teal;
+}
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-weight: 500;
+}
+a:hover {
+    color: rgb(172, 112, 112);
+}
+.navbar {
+    background-image: url("https://media.istockphoto.com/photos/blue-spot-lights-picture-id178414064?k=20&m=178414064&s=612x612&w=0&h=15j2Xwzr92YNwryXFPC6Apz7HH5_mkv6nkLCvIA2TUw=");
+}
+
+ .navbar .navbar-brand a{
+    padding: 1rem 0;
+    display: block;
+    text-decoration: none;
+   
+}
+.navbar-brand{
+    font-family: 'Festive', cursive;
+    font-size: 2.5rem;
+    color: rgb(148, 55, 148);
+}
+.card:hover{
+    color: rgb(45, 160, 55);
+}
+
+.banner-image{
+    background-color: thistle;
+}
+.rounded-circle{
+    margin-left: 80px;
+}
+.card-title{
+    margin-left: 60Px;
+    font-size: 30px;
+    color: tomato;
+}
+.card-title:hover{
+    color: turquoise;
+}
+.navbar-toggler{
+    color: tomato;
+}
+.offcanvas {
+    background-image: url("https://media.istockphoto.com/photos/blue-spot-lights-picture-id178414064?k=20&m=178414064&s=612x612&w=0&h=15j2Xwzr92YNwryXFPC6Apz7HH5_mkv6nkLCvIA2TUw=");
+
+}
+.offcanvas-title{
+    font-family: 'Festive', cursive; 
+    font-size: 80px;
+}
